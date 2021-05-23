@@ -9,4 +9,3 @@ I’m a Bachelors and Passionate in **iOS App Development**. You can check me on
 👉🏻  LinkedIn : https://in.linkedin.com/in/patelmeet12
 
 👉🏻  Twitter : https://twitter.com/patelmeet_12
-
