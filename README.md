@@ -21,7 +21,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelmeet12&layout=compact&theme=radical)
 
-![Meet's github activity graph](https://activity-graph.herokuapp.com/graph?username=patelmeet12&theme=dracula)
+<!--- ![Meet's github activity graph](https://activity-graph.herokuapp.com/graph?username=patelmeet12&theme=dracula) -->
 
 
 
