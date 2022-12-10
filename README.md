@@ -10,6 +10,8 @@
 
 - [Twitter](https://twitter.com/patelmeet_12)
 
+- [Skype](https://join.skype.com/invite/gZZAK7iUQN2y)
+
 - [Instagram](https://www.instagram.com/meetsurani12/)
 
 
