@@ -13,5 +13,16 @@
 - [Instagram](https://www.instagram.com/meetsurani12/)
 
 
+- 🔭 I’m currently working on iOS 
+- 🌱 I’m currently learning SwiftUI
+- 💬 Ask me about Mobile Development
+
+![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelmeet12&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelmeet12&layout=compact&theme=radical)
+
+![Meet's github activity graph](https://activity-graph.herokuapp.com/graph?username=patelmeet12&theme=dracula)
+
+
 
 ***Thank You For Watching! :+1:***
