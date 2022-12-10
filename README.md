@@ -10,7 +10,7 @@
 
 - [Twitter](https://twitter.com/patelmeet_12)
 
-- [Skype](https://join.skype.com/invite/gZZAK7iUQN2y)
+- [Skype](https://join.skype.com/invite/vV7Ept1jnDXx)
 
 - [Instagram](https://www.instagram.com/meetsurani12/)
 
