@@ -19,17 +19,11 @@
 
 - [Instagram](https://www.instagram.com/meetsurani12/) -->
 
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/patelmeet_12)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/patelmeet12)
-[![Skype Badge](https://img.shields.io/badge/-Skype-00acee?style=flat-square&logo=Skype&logoColor=white)](https://join.skype.com/invite/vV7Ept1jnDXx)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-00acee?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/meetsurani12/)
-[![Medium Badge](https://img.shields.io/badge/Medium-3b5998?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@patelmeet12)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/meetsurani12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/patelmeet12)
+[![Skype](https://img.shields.io/badge/Skype-00acee?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/vV7Ept1jnDXx)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@patelmeet12)
-[![Twitter](https://img.shields.io/twitter/follow/imthepk?logo=Twitter&style=for-the-badge)](https://twitter.com/patelmeet_12)
+[![Twitter](https://img.shields.io/twitter/follow/patelmeet_12?logo=Twitter&style=for-the-badge)](https://twitter.com/patelmeet_12)
 
 
 - 🔭 I’m currently working on iOS 
@@ -59,6 +53,6 @@
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=patelmeet12&theme=vue" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patelmeet12&label=Profile%20Views&color=0e75b6&style=flat" alt="patelmeet12" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patelmeet12&label=Views&color=blue&style=plastic&style=for-the-badge" alt="patelmeet12" /> </p>
 
 ***Thank You For Watching! :+1:***
