@@ -16,7 +16,9 @@
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/patelmeet_12)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://in.linkedin.com/in/patelmeet12)
+
 [![Medium Badge](https://img.shields.io/badge/Medium-3b5998?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@patelmeet12)
 
 
