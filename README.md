@@ -7,7 +7,7 @@
          
 <!--- > *Hey there 👋 ,* -->
 
-> *I’m a Bachelors and Passionate in **iOS App Development **. You can check me on Social Link below to see my works : 👇*
+> *I’m a Bachelors and Passionate in **Senior iOS App Development **. You can check me on Social Link below to see my works : 👇*
 
 <!--- - [Resume](https://drive.google.com/file/d/1gchAfTDmpDYNXZ_HA1cz1TAFo-mi8hA3/view?usp=sharing) -->
 
