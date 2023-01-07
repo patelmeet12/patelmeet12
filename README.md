@@ -31,11 +31,15 @@
 - 💬 Ask me about Mobile Development
 - 📧 Reach out to me at patelmeet0809@gmail.com
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelmeet12&layout=compact&theme=vue"/>
+</p>
+
 <!--- ![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelmeet12&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patelmeet12&layout=compact&theme=radical)
 
-![Meet's github activity graph](https://activity-graph.herokuapp.com/graph?username=patelmeet12&theme=dracula) -->
+![Meet's github activity graph](https://activity-graph.herokuapp.com/graph?username=patelmeet12&theme=dracula)
 
 ## 💳 Github Profile Summary Card
 <p align="center">
@@ -51,7 +55,7 @@
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=patelmeet12&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=patelmeet12&theme=vue" />
-</p>
+</p> --->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelmeet12&label=Views&color=blue&style=plastic&style=for-the-badge" alt="patelmeet12" /> </p>
 
