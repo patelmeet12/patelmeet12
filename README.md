@@ -43,7 +43,7 @@
 - 🔭 I’m currently working on iOS 
 - 🌱 I’m currently learning SwiftUI
 - 💬 Ask me about Mobile Development
-- 📧 Reach out to me at patelmeet0809@gmail.com
+<!--- - 📧 Reach out to me at patelmeet0809@gmail.com --->
 
 <!--- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelmeet12&layout=compact&theme=vue"/>
