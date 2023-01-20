@@ -30,6 +30,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/patelmeet_12?logo=Twitter&style=for-the-badge)](https://twitter.com/patelmeet_12) --->
 
 <p align="center">
+	<a href="patelmeet0809@gmail.com"><img src="https://img.icons8.com/bubbles/500/null/gmail.png" width="90" alt="Gmail"/></a>
 	<a href="https://github.com/patelmeet12"><img src="https://img.icons8.com/bubbles/500/000000/github.png" width="90" alt="GitHub"/></a>
 	<a href="https://in.linkedin.com/in/patelmeet12"><img src="https://img.icons8.com/bubbles/500/null/linkedin.png" width="90" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/patelmeet_12"><img src="https://img.icons8.com/bubbles/500/null/twitter-circled.png" width="90" alt="Twitter"/></a>
