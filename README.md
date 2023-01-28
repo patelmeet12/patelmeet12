@@ -51,6 +51,8 @@
 	<img src="https://img.icons8.com/pulsar-color/420/null/experimental-mac-os-pulsar-color.png" width="90"/>
 </p>
 
+![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelmeet12&show_icons=true&theme=radical)
+
 <!--- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelmeet12&layout=compact&theme=vue"/>
 </p>
