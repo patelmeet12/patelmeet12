@@ -47,8 +47,8 @@
 
 ## Languages and Tools...!!!
 <p align="left">
-	<img src="https://img.icons8.com/pulsar-color/420/null/experimental-swift-pulsar-color.png" width="90"/>
-	<img src="https://img.icons8.com/pulsar-color/420/null/experimental-mac-os-pulsar-color.png" width="90"/>
+	<a href="https://www.swift.org/"><img src="https://img.icons8.com/pulsar-color/420/null/experimental-swift-pulsar-color.png" width="90" alt="Medium"/></a>
+	<a href="https://www.apple.com"><img src="https://img.icons8.com/pulsar-color/420/null/experimental-mac-os-pulsar-color.png" width="90" alt="Medium"/></a>
 </p>
 
 ![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelmeet12&show_icons=true&theme=radical)
