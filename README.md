@@ -8,6 +8,16 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Meet Patel</h1>
+
+<p align="center">
+<a href="https://github.com/patelmeet12?tab=followers">
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/patelmeet12?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+</a>
+<a href="https://github.com/patelmeet12?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/patelmeet12?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+</a>
+<img alt="profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=patelmeet12&style=for-the-badge&color=blue"/>
+</p>
          
 <!--- > *Hey there 👋 ,* -->
 
@@ -82,8 +92,8 @@
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=patelmeet12&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=patelmeet12&theme=vue" />
-</p> --->
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patelmeet12&label=Views&color=blue&style=plastic&style=for-the-badge" alt="patelmeet12" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patelmeet12&label=Views&color=blue&style=plastic&style=for-the-badge" alt="patelmeet12" /> </p> --->
 
 ***Thank You For Watching! :+1:***
