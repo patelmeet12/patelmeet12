@@ -40,8 +40,8 @@
 </p>
 
 
-- 🔭 I’m currently working on iOS 
-- 🌱 I’m currently learning SwiftUI
+- 🔭 I’m currently working on iOS & Flutter
+- 🌱 I’m currently learning SwiftUI & Dart
 - 💬 Ask me about Mobile Development
 <!--- - 📧 Reach out to me at patelmeet0809@gmail.com --->
 
@@ -49,13 +49,14 @@
 <p align="left">
 	<a href="https://www.swift.org/"><img src="https://img.icons8.com/bubbles/500/null/swift.png" width="90" alt="Medium"/></a>
 	<a href="https://www.apple.com"><img src="https://img.icons8.com/bubbles/500/null/mac-os.png" width="90" alt="Medium"/></a>
+	<a href="https://flutter.dev/"><img src="https://img.icons8.com/fluency/96/null/flutter.png" width="90" alt="Medium"/></a>
 </p>
 
-![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelmeet12&show_icons=true&theme=radical)
+<!--- ![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelmeet12&show_icons=true&theme=radical)
 
 <a href="https://github.com/patelmeet12">
     <img src="https://github-stats-alpha.vercel.app/api?username=patelmeet12&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+</a> --->
 
 <!--- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelmeet12&layout=compact&theme=vue"/>
