@@ -59,7 +59,7 @@
 <p align="left">
 	<a href="https://www.swift.org/"><img src="https://img.icons8.com/bubbles/500/null/swift.png" width="90" alt="Medium"/></a>
 	<a href="https://www.apple.com"><img src="https://img.icons8.com/bubbles/500/null/mac-os.png" width="90" alt="Medium"/></a>
-	<a href="https://flutter.dev/"><img src="https://img.icons8.com/fluency/96/null/flutter.png" width="90" alt="Medium"/></a>
+	<a href="https://flutter.dev/"><img src="https://img.icons8.com/color/144/null/flutter.png" width="90" alt="Medium"/></a>
 </p>
 
 <!--- ![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelmeet12&show_icons=true&theme=radical)
