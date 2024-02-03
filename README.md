@@ -1,9 +1,3 @@
-***MyAwesomeHub :-***
-
-<!--- <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p> --->
-
 <h1 align="center"> Hey there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -18,26 +12,8 @@
 </a>
 <img alt="profile views" title="Profile views on GitHub" src="https://komarev.com/ghpvc/?username=patelmeet12&style=for-the-badge&color=blue"/>
 </p>
-         
-<!--- > *Hey there 👋 ,* -->
 
-> *I’m a **Senior iOS & Flutter App Development **. You can check me on Social Link below to see my works : 👇*
-
-<!--- - [Resume](https://drive.google.com/file/d/1gchAfTDmpDYNXZ_HA1cz1TAFo-mi8hA3/view?usp=sharing) -->
-
-<!--- - [LinkedIn](https://in.linkedin.com/in/patelmeet12)
-
-- [Twitter](https://twitter.com/patelmeet_12)
-
-- [Skype](https://join.skype.com/invite/vV7Ept1jnDXx)
-
-- [Instagram](https://www.instagram.com/meetsurani12/) -->
-
-<!--- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/meetsurani12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/patelmeet12)
-[![Skype](https://img.shields.io/badge/Skype-00acee?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/vV7Ept1jnDXx)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@patelmeet12)
-[![Twitter](https://img.shields.io/twitter/follow/patelmeet_12?logo=Twitter&style=for-the-badge)](https://twitter.com/patelmeet_12) --->
+> *I’m a **Expert iOS & Flutter App Development **. You can check me on Social Link below to see my works: 👇*
 
 <p align="center">
 	<a href="mailto:patelmeet0809@gmail.com"><img src="https://img.icons8.com/bubbles/500/null/gmail.png" width="90" alt="Gmail"/></a>
@@ -49,17 +25,18 @@
 	<a href="https://www.instagram.com/meetsurani12"><img src="https://img.icons8.com/bubbles/500/null/instagram-new--v1.png" width="90" alt="Instagram"/></a>
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on iOS & Flutter
 - 🌱 I’m currently learning SwiftUI & Dart
 - 💬 Ask me about Mobile Development
-<!--- - 📧 Reach out to me at patelmeet0809@gmail.com --->
+- ⚡ Fun fact **I Love Coffee** :coffee: [Buy Me a Coffee](https://www.buymeacoffee.com/patelmeet12)
 
 ## Languages and Tools...!!!
 <p align="left">
 	<a href="https://www.swift.org/"><img src="https://img.icons8.com/bubbles/500/null/swift.png" width="90" alt="Medium"/></a>
 	<a href="https://www.apple.com"><img src="https://img.icons8.com/bubbles/500/null/mac-os.png" width="90" alt="Medium"/></a>
-	<a href="https://flutter.dev/"><img src="https://img.icons8.com/color/144/null/flutter.png" width="90" alt="Medium"/></a>
+	<a href="https://flutter.dev/"><img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/500/external-flutter-is-an-open-source-mobile-application-development-framework-created-by-google-logo-green-tal-revivo.png" width="90" alt="Medium"/></a>
 </p>
 
 <!--- ![Meet's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelmeet12&show_icons=true&theme=radical)
