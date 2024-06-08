@@ -30,7 +30,9 @@
 - 🔭 I’m currently working on iOS & Flutter
 - 🌱 I’m currently learning SwiftUI & Dart
 - 💬 Ask me about Mobile Development
-- ⚡ Fun fact **I Love Coffee** :coffee: [Buy Me a Coffee](https://www.buymeacoffee.com/patelmeet12)
+<!--- - ⚡ Fun fact **I Love Coffee** :coffee: [Buy Me a Coffee](https://www.buymeacoffee.com/patelmeet12) --->
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/patelmeet12)
 
 ## iOS Development 📱
 - <img width=15 src="https://user-images.githubusercontent.com/59176579/155759319-69ca0edf-36dd-4d9d-b7a8-1074b2112e29.png"/> Swift, Objc-C & iOS Frameworks
